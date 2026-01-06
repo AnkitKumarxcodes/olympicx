@@ -1,0 +1,51 @@
+# =========================
+# Python bytecode & cache
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+.venv/
+env/
+my_project_venv/
+
+# =========================
+# Streamlit
+# =========================
+.streamlit/
+*.log
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# IDE / Editor files
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Temporary / cache files
+# =========================
+.cache/
+.mplconfig/
+*.tmp
+*.temp
+
+# =========================
+# IMPORTANT:
+# Data files are intentionally NOT ignored
+# because the app requires them at runtime.
+# =========================
