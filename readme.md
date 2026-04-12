@@ -95,12 +95,14 @@ This ensures analytical accuracy and meaningful visual outputs.
 
 OlympicX/
 │
-├── app.py # Main Streamlit application
-├── data_cleaning.py # Data preprocessing logic
-├── eda.py # EDA and visualization functions
-├── dataset/ # Cleaned Olympic dataset
-├── assets/ # Static resources
-└── requirements.txt
+├── 🧠 app.py              # Main Streamlit dashboard application
+├── 🧹 data_cleaning.py    # Data preprocessing & transformation logic
+├── 📊 eda.py              # Exploratory Data Analysis & visualizations
+│
+├── 📂 dataset/            # Cleaned Olympic dataset (CSV files)
+├── 📂 assets/             # Static resources (images, icons, etc.)
+│
+└── 📦 requirements.txt    # Project dependencies
 
 
 ---
