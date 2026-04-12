@@ -93,17 +93,18 @@ This ensures analytical accuracy and meaningful visual outputs.
 ## 📂 Project Structure
 
 
+```bash
 OlympicX/
 │
 ├── 🧠 app.py              # Main Streamlit dashboard application
 ├── 🧹 data_cleaning.py    # Data preprocessing & transformation logic
-├── 📊 eda.py              # Exploratory Data Analysis & visualizations
+├── 📊 eda.py              # EDA & visualizations
 │
 ├── 📂 dataset/            # Cleaned Olympic dataset (CSV files)
-├── 📂 assets/             # Static resources (images, icons, etc.)
+├── 📂 assets/             # Static resources (images, icons)
 │
 └── 📦 requirements.txt    # Project dependencies
-
+```
 
 ---
 
